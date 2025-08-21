@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    
+    <h2>Login Page</h2>
     <Login/>
     </>
   )
